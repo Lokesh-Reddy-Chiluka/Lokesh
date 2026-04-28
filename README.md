@@ -1,27 +1,30 @@
-# Hi, I'm Lokesh! 👋 
+# Hey, I'm Lokesh! 👋
 
-### 📊 Data Analyst | SQL Developer | Excel Expert
-I specialize in transforming raw data into actionable business insights. Whether it's querying complex databases with **SQL** or building interactive **Excel Dashboards**, I enjoy telling stories through data to drive better decision-making.
+### 📊 Aspiring Data Analyst | SQL • Excel • Power BI 
 
----
-
-### 🛠️ Technical Toolkit
-- **Languages:** `SQL (PostgreSQL, MySQL)`, `Python` (Learning)
-- **Data Tools:** `Microsoft Excel` (Advanced, Power Query, Pivot Tables), `Power BI`
-- **Core Skills:** Data Cleaning, Trend Analysis, KPI Tracking, SLA Optimization, Statistical Modeling
+I turn raw data into actionable business insights. I specialize in querying complex databases and building interactive dashboards that help businesses optimize operations and understand customer behavior.
 
 ---
 
-### 🚀 Featured Projects
-- **[IT Support Ticket Analysis](https://github.com/Lokesh-Reddy-Chiluka/IT-Ticket-Analysis)** *Analyzed 97K+ tickets to identify operational bottlenecks and improve SLA compliance.*
-- **[Chinook Music Store Analysis](https://github.com/Lokesh-Reddy-Chiluka/SQL-Project)** *Used advanced SQL queries to uncover global purchasing patterns and artist popularity.*
+### 🛠️ Tech Stack & Tools
 
+- **Languages:** SQL (PostgreSQL, MySQL), Python (Learning)
+- **Data Viz:** Microsoft Excel (Advanced Dashboards), Power BI
+- **Core Skills:** Power Query, Pivot Tables, Data Cleaning, SLA Optimization, Trend Analysis
+
+---
+
+### 🚀 Key Projects
+
+- **[IT Support Ticket Analysis](https://github.com/Lokesh-Reddy-Chiluka/IT-Ticket-Analysis)**: Analyzed 97,000+ support records to identify operational bottlenecks and improve SLA compliance using Excel.
+- **[Chinook Music Store Analysis](https://github.com/Lokesh-Reddy-Chiluka/SQL-Project)**: Leveraged SQL CTEs and Joins to uncover global purchasing patterns and artist popularity across 20+ countries.
 
 ---
 
-### 📫 Get In Touch
-- **LinkedIn:** [Lokesh Reddy Chiluka](https://www.linkedin.com/in/lokesh-reddy-chiluka/)
-- **Email:** [lokeshreddychiluka01@gmail.com](mailto:lokeshreddychiluka01@gmail.com)
-- **Status:** 🟢 **Open to New Opportunities**
+### 📈 GitHub Ecosystem
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Reddy-Chiluka&show_icons=true&theme=dark&hide_border=true)
 
 ---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/lokesh-reddy-chiluka/) | [Email](mailto:lokeshreddychiluka01@gmail.com)
