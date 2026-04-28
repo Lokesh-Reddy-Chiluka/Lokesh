@@ -18,12 +18,6 @@ I specialize in transforming raw data into actionable business insights. I enjoy
 
 ---
 
-### 📈 GitHub Stats
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Reddy-Chiluka&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Reddy-Chiluka&layout=compact&theme=dark)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/lokesh-reddy-chiluka](https://www.linkedin.com/in/lokesh-reddy-chiluka/)
 - **Email:** [lokeshreddychiluka01@gmail.com ]
