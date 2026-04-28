@@ -19,10 +19,6 @@ I turn raw data into actionable business insights. I specialize in querying comp
 - **[IT Support Ticket Analysis](https://github.com/Lokesh-Reddy-Chiluka/IT-Ticket-Analysis)**: Analyzed 97,000+ support records to identify operational bottlenecks and improve SLA compliance using Excel.
 - **[Chinook Music Store Analysis](https://github.com/Lokesh-Reddy-Chiluka/SQL-Project)**: Leveraged SQL CTEs and Joins to uncover global purchasing patterns and artist popularity across 20+ countries.
 
----
-
-### 📈 GitHub Ecosystem
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesh-Reddy-Chiluka&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
